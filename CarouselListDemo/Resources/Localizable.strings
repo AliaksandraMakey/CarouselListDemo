@@ -1,0 +1,45 @@
+/*
+   Localizable.strings
+   CarouselListDemo
+
+   Created by Alexandra Homan
+*/
+
+/* General */
+"general.retry" = "Retry";
+"general.error" = "Error";
+"general.no_items" = "No items";
+"general.load_images_message" = "Loading images...";
+
+/* Carousel */
+"carousel.loading_images" = "Loading images";
+"carousel.photo_by" = "Photo by";
+"carousel.error_load_images" = "Failed to load images: %@";
+"carousel.error_load_more" = "Failed to load more: %@";
+
+/* List */
+"list.search_placeholder" = "Search";
+"list.no_results" = "No results";
+"list.no_results_message" = "No results found";
+"list.no_results_hint" = "Try adjusting your search query";
+"list.clear_search" = "Clear search";
+"list.image_id_prefix" = "Image ID";
+
+/* Statistics */
+"statistics.title" = "Statistics";
+"statistics.items_per_block" = "Items per Block";
+"statistics.top_3_characters" = "Top 3 Characters";
+"statistics.page" = "Page";
+"statistics.items" = "items";
+"statistics.calculating" = "Calculating...";
+"statistics.no_statistics" = "No statistics";
+"statistics.no_statistics_message" = "No data to display";
+"statistics.total_pages_label" = "Total Pages:";
+"statistics.total_items_label" = "Total Items:";
+
+/* Errors */
+"errors.network_error" = "Network connection error";
+"errors.unknown_error" = "An unknown error occurred";
+"errors.try_again" = "Please try again";
+"errors.failed_to_load" = "Failed to load";
+"errors.load_data_failed" = "Failed to load data. Please check your connection.";
